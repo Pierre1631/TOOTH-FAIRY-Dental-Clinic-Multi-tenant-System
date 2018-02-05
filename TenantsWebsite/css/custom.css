@@ -1,0 +1,37 @@
+/* custom.css */
+#header {
+	background-color: #7db4b5;
+	color: #e0eff1;
+}
+#menu {
+	background-color: #444;
+	color: #e0eff1;
+}
+#workspace {
+	padding-top: 10px;
+	min-height: 400px;
+	background-color: #fff;
+}
+#footer {
+	min-height: 50px;
+	background-color: #7db4b5;
+	color: #e0eff1;
+}
+.clear-pad { padding: 0px!important; }
+.top-bar{
+  float: left;
+  background-color: black;
+  padding: 13px 0;
+  height: 100%;
+  width: 100%;
+}
+.topbar-info li a{
+  font-family: verdana;
+  float: right;
+  font-size: 20px;
+  letter-spacing: 0;
+  margin-right: 20px;
+  color: #349fab;
+}
+.topbar-info li{
+  list-style: none;
